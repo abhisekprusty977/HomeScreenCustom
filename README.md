@@ -20,7 +20,7 @@ This project demonstrates how to implement custom Home Screen Quick Actions in a
 ### Installation
 
 Clone this repository:
-git clone https://github.com/adithyan08/CustomHomeScreen.git
+https://github.com/abhisekprusty977/HomeScreenCustom
 
 
 Open the project in Xcode and run on a physical device.
@@ -77,7 +77,7 @@ Inspired by innovative UX patterns like those in the Rapido app, thanks to their
 
 ---
 
-Contact: [adithyanna2182@gmail.com]  
+Contact: [abhisekprusty977@gmail.com]  
 GitHub: [https://github.com/adithyan08]
 
 
