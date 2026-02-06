@@ -78,6 +78,6 @@ Inspired by innovative UX patterns like those in the Rapido app, thanks to their
 ---
 
 Contact: [abhisekprusty977@gmail.com]  
-GitHub: [https://github.com/adithyan08]
+GitHub: [https://github.com/abhisekprusty977]
 
 
